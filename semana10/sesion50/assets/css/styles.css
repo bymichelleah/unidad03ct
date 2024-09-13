@@ -1,8 +1,9 @@
 body {
   background-color: cornflowerblue;
-  color: white;
+  color: grey;
+  text-decoration: uppercase;
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
 }
