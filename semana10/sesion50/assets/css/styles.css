@@ -7,3 +7,10 @@ body {
 p {
   font-size: 16px;
 }
+
+.color {
+  color: darksalmon;
+}
+.footer {
+  color: white;
+}
